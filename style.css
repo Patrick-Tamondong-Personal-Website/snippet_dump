@@ -1,0 +1,11 @@
+/*
+
+General Styling
+
+*/
+
+*{
+  margin:0;
+  padding: 0;
+  box-style: border-box;
+}
